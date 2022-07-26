@@ -22,8 +22,8 @@ nav-menu:
   permalink: about
 - text: Contact
   permalink: contact
-- text: Blog
-  permalink: blog
+- text: Skills
+  permalink: skills
 
 # use false to turn off any social media links
 twitter: https://twitter.com/JuanLlave
