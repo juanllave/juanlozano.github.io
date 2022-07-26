@@ -26,11 +26,11 @@ nav-menu:
   permalink: skills
 
 # use false to turn off any social media links
-twitter: https://twitter.com/JuanLlave
 facebook: false
 instagram: false
-github: https://github.com/juanllave
 linkedin: https://www.linkedin.com/in/juanlozanovallejo/
+github: https://github.com/juanllave
+twitter: https://twitter.com/JuanLlave
 medium: false
 google-scholar: false
 email: mailto:juan.lozanovallejo@gmail.com
