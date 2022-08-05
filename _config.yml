@@ -24,6 +24,8 @@ nav-menu:
   permalink: contact
 - text: Skills
   permalink: skills
+- text: Resume
+  permalink: resume
 
 # use false to turn off any social media links
 facebook: false
