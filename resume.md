@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: page
 title: Juan Lozano Vallejo
 ---
 # Juan Lozano Vallejo
