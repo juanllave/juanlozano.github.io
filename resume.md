@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Juan Lozano Vallejo
+title: Resume
+permalink: resume
 ---
 # Juan Lozano Vallejo
 Project Manager | Communications Strategist
