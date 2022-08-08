@@ -24,6 +24,8 @@ nav-menu:
   permalink: skills
 - text: Values
   permalink: values
+- text: Beyond Work
+  permalink: beyond
 - text: Resume
   permalink: resume
 - text: Contact
