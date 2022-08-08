@@ -20,6 +20,8 @@ show-nav-menu: true
 nav-menu:
 - text: About
   permalink: about
+- text: What I Do
+  permalink: wid
 - text: Skills
   permalink: skills
 - text: Values
