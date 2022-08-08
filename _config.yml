@@ -4,7 +4,8 @@ url: "" # the url of your github pages
 
 # site information used in page title, meta data etc.
 title: "Juan Lozano Vallejo"
-description: Project Manager | Communications Strategist
+description: Project Manager | Communications Strategist >
+test
 
 # color theme for links
 theme-color: indigo # indigo|yellow|pink|green|stone|
