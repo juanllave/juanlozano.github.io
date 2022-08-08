@@ -30,6 +30,8 @@ nav-menu:
   permalink: beyond
 - text: Resume
   permalink: resume
+- text: Recommendations
+  permalink: recommendations
 - text: Contact
   permalink: contact
 
