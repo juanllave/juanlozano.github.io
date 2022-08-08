@@ -20,12 +20,14 @@ show-nav-menu: true
 nav-menu:
 - text: About
   permalink: about
-- text: Contact
-  permalink: contact
 - text: Skills
   permalink: skills
+- text: Values
+  permalink: values
 - text: Resume
   permalink: resume
+- text: Contact
+  permalink: contact
 
 # use false to turn off any social media links
 facebook: false
