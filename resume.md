@@ -17,6 +17,12 @@ Project Manager | Communications Strategist
 
 
 ## Work Experience
+`Since Dec 2022` **Community Relations Strategist** <br/>
+Green Line LRT – City of Calgary, Calgary, AB
+- Engage and liaise with communy associations, business immprovement areas, property managers and business owners to resolve their questions and keep them informed about the project
+- Administer and update Customer Relationships Manager tool
+- Prepare and distribute construction notices for interested and impacted parties
+
 `Jan 2015 - Dec 2021` **Communications Strategist & Political Consultant** <br/>
 eu~zen Consultants, Guadalajara, MX
 - Orchestrated, led, and supervised communication strategies from development to evaluation  for gubernatorial, mayoral and congressional races in three electoral processes in Mexico (2015, 2018, 2021), including research, content creation, graphic design,micro-segmentation, media posting, and copy-writing
@@ -25,7 +31,6 @@ eu~zen Consultants, Guadalajara, MX
 - Developed and executed logistics, strategies, and scheduled meetings with internal and external participants, prepared agendas and took minutes
 - Tracked metrics, analyzed, and visualized polls and data to better focus communication and marketing strategies
 - Prepared briefs, presentations and reports on campaign performance and relevant events
-
 
 `Dec 2018 - Dec 2021` **Director of Strategic Design** <br/>
 Government of Jalisco, Guadalajara, MX
@@ -47,7 +52,7 @@ Government of Jalisco, Guadalajara, MX
 ## Education
 
 `2022-2023`
-Diploma in Business Admininistration,
+Diploma in Business Admininistration–Marketing,
 __Southern Alberta Institute of Techonology, Calgary, AB__
 
 `2017`
@@ -63,7 +68,13 @@ Bachelor of Arts in Communications,
 __ITESO–Jesuit University in Guadalajara, Guadalaara, MX__
 
 ## Volunteer Involvement
-`Since April 2022` **Director of Transportation** <br/>
+`Since Septemebr 2022` **Director of Communications** <br/>
+Beltline Neighbourhoods Association, Calgary, AB
+- Create, design, and publish marketing emails
+- Respond to media requests and inquiries
+- Community manager for Twitter and Instagram
+
+`April – Septemebr 2022` **Director of Transportation** <br/>
 Beltline Neighbourhoods Association, Calgary, AB
 - Advocate and promote the construction of pedestrian and wheeling infrastructure
 - Liaise with City and Provincial officials to raise awareness of possible improvements and to allocate funding to existing projects
